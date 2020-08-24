@@ -1,6 +1,8 @@
 # Pokedex
 
-- A Pokemon Pokedex to show all the pokemons in Indigo region.
+- A Pokemon Pokedex to show all the pokemons in Kanto region.
+
+- Discover the list of all 150 pokemons.
 
 - Pokemon follows the adventures of the ten-year-old Pokémon trainer Ash Ketchum and his electric mouse partner Pikachu as they collect Gym Badges in the fictional Kanto region so they can compete in the Pokémon League competition at the Indigo Plateau. 
 
